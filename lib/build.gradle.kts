@@ -37,7 +37,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 groupId = "com.github.youhuaixu37.boops" 
                 artifactId = "IOS-BlindCover"                 
-                version = "1.0.0"
+                version = "1.1.0"
                 from(components["release"])
             }
         }
