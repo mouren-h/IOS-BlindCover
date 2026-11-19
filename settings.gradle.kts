@@ -16,5 +16,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IOS-遮蔽罩-依赖库"
+rootProject.name = "IOS-BlindCover"
 include(":lib")
